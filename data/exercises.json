@@ -1,0 +1,14 @@
+[
+  {
+    "id": "e1",
+    "question": "How do you say 'Hello' in French?",
+    "options": ["Hola", "Bonjour", "Ciao"],
+    "correctIndex": 1
+  },
+  {
+    "id": "e2",
+    "question": "What is 'three' in French?",
+    "options": ["trois", "tres", "tre"],
+    "correctIndex": 0
+  }
+]
