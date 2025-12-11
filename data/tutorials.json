@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Basic Greetings",
+    "content": "Bonjour = Hello. Salut = Hi. Comment ça va? = How are you?"
+  },
+  {
+    "id": 2,
+    "title": "Numbers 1-5",
+    "content": "Un, deux, trois, quatre, cinq."
+  }
+]
